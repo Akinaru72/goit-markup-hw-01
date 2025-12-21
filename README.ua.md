@@ -1,8 +1,8 @@
 # goit-markup-hw-01
 
-Виконай HTML-розмітку макета сторінки для **[Домашнього завдання №1](<https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0>)**, **без CSS-оформлення**.
+- Виконай HTML-розмітку макета сторінки для **[домашнього завдання №1](<https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0>)**, **без CSS-оформлення**.
 
-Налаштуй **GitHub Pages** і додай посилання на живу сторінку в секцію **About** на сторінці репозиторія.
+- Налаштуй **GitHub Pages** і додай посилання на живу сторінку в секцію **About** на сторінці репозиторія.
 
 ---
 
