@@ -1,6 +1,6 @@
 # goit-markup-hw-01
 
-**Complete the HTML markup of the layout page for [Homework #1](<https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0>), without CSS styling.**
+Complete the HTML markup of the layout page for [Homework #1](<https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0>), without CSS styling.
 
 Set up GitHub Pages and add a link to the live page in the **About** section of the repository.
 
