@@ -1,57 +1,49 @@
 # goit-markup-hw-01
 
-• Створи репозиторій goit-markup-hw-01.
+**Homework #1:** HTML markup of the layout page without CSS styling.
 
-• Виконай HTML-розмітку макета сторінки домашнього завдання #1, без CSS оформлення.
+Set up GitHub Pages and add a link to the live page in the **About** section of the repository.
 
-• Налаштуй GitHub Pages і додай посилання на живу сторінку в секцію About GitHub-репозиторія.
+---
 
-На що буде звертати увагу ментор :
+## A — Project
 
-Проєкт
+- **A1** — The HTML file is named `index.html`.
+- **A2** — The project root contains an `images/` folder with images.
+- **A3** — File names contain **no uppercase letters, Cyrillic, spaces, or transliteration**; only lowercase English letters and words are allowed.
+- **A4** — Code formatted using **Prettier**.
+- **A5** — All images and text content are taken from the design layout.
+- **A6** — All raster images optimized using [Squoosh](https://squoosh.app/).
+- **A7** — Code follows the [Code Guide](https://codeguide.co/) recommendations.
 
-«A1» HTML-файл називається index.html.
+---
 
-«A2» У корені проєкту є папка images з зображеннями.
+## B — Markup
 
-«A3» У назвах файлів відсутні великі літери, кирилиця, пробіли і трансліт. Назви містять тільки літери і слова англійської мови.
+- **B1** — Markup is written in `index.html`.
+- **B2** — HTML markup of all layout elements is completed.
+- **B3** — Tags are used according to their semantic meaning.
+- **B4** — HTML passes validation with no errors using [W3C Validator](https://validator.w3.org/nu/#textarea).
+- **B5** — Page contains semantic structure tags: `<header>`, `<main>`, and `<footer>`.
+- **B6** — Logos in header and footer are **text links**, not images.
+- **B7** — `<nav>` is used only once — in the header.
+- **B8** — Header contacts (email and phone) are placed **outside** the `<nav>` tag.
+- **B9** — Only **one `<h1>`** tag is used on the page.
+- **B10** — The "Order Service" element is a `<button type="button">`.
+- **B11** — Section titles are marked up with `<h2>`.
+- **B12** — All `<img>` tags include size attributes, at least `width`.
+- **B13** — All `<img>` tags include a descriptive `alt` attribute, written in the same language as the page content.
+- **B14** — Images exported from the layout in **.jpg** format.
+- **B15** — Groups of similar elements are wrapped in `<ul>` lists.
 
-«A4» Вихідний код відформатований за допомогою Prettier.
+---
 
-«A5» Всі зображення та текстовий контент взяті з макету.
+## Resources
 
-«A6» Всі растрові зображення оптимізовані з використанням squoosh.
+- [Squoosh](https://squoosh.app/) — image optimization
+- [Code Guide](https://codeguide.co/) — coding style guide
+- [W3C Validator](https://validator.w3.org/nu/#textarea) — HTML validation
 
-«A7» Код написаний з дотриманням настанови.
+---
 
-Розмітка
-
-«B1» Розмітка набрана у файлі index.html.
-
-«B2» Виконана HTML-розмітка всіх елементів макета.
-
-«B3» Теги використані відповідно до їх семантичного змісту.
-
-«B4» HTML проходить перевірку валідатором без помилок.
-
-«B5» У розмітці є теги для виділення основної структури сторінки: <header>, <main> і <footer>.
-
-«B6» Логотип в хедері і футері — це посилання з текстом, не зображення.
-
-«B7» Тег <nav> використаний один раз на сторінці — в хедері.
-
-«B8» Контакти в хедері (пошта і телефон) знаходяться за межами тегу <nav>.
-
-«B9» Тег h1 використаний один раз на сторінці.
-
-«B10» Елемент з текстом Order Service — це кнопка з type="button".
-
-«B11» Заголовки секцій розмічені тегом h2.
-
-«B12» У тегів <img> вказані атрибути розмірів, як мінімум width.
-
-«B13» У тегів <img> є атрибут alt, який заповнений коротким описом про те, що зображено на малюнку. Опис тією ж мовою що і решта текстового контенту.
-
-«B14» Зображення експортовані з макета у форматі jpg.
-
-«B15» Групи однотипних елементів зібрані у списки <ul>.
+**Live page:** [GitHub Pages](https://akinaru72.github.io/goit-markup-hw-01/)
